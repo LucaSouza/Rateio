@@ -1,0 +1,93 @@
+html{
+    background-color: #EEEEEE;
+    font-size: 100%;
+    background-color: #ffd464;
+	font-family: "Open Sans", sans-serif;
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    margin: 0;
+    background-color: aquamarine;
+}
+
+header{
+    margin-top: -1rem;
+    background-color: red;
+    padding: 1rem;
+}
+
+/* ESTILO MENU */
+#nome-pessoa{
+    display: inline-block;
+    background-color: aqua;
+    position: absolute;
+}
+#menu{
+    text-align: center;
+}
+
+#menu li{
+    display: inline-block;
+    background-color: aqua;
+    margin-right: 1rem;
+    padding: 1rem;
+}
+
+#menu li a{
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+#mensagem{
+    position: absolute;
+    width: 97.67%;
+    height: 1.5rem;
+    padding: 1rem;
+    background-color: aqua;
+    margin-top: 0;
+    text-align: center;
+    font-size: 1.2rem;
+    display: none;
+}
+/*ESTILO PERFIL*/
+#container-devecao{
+    text-align: center;
+    /*background-color: bisque;*/
+}
+
+#container-devecao p{
+    display: inline-block;
+    font-size: 1.2rem;
+    margin-left: 3.5rem;
+    padding: 1rem;
+   
+}
+#form-cadastro-gasto{
+    display: inline-block;
+    width: 49%;
+    background-color: brown;
+    margin-top: 1rem;
+}
+.entrada-cadastro-gasto{
+    display: block;
+    margin-left: 70%;
+}
+#container-pessoas{
+    display: inline-block;
+    width: 49%;
+    background-color: burlywood;
+}
+#container-pessoas ul{
+    list-style: none;
+}
+
+#container-geral{
+    background-color: royalblue;
+}
+
+#formaLogin,
+#formaCadastro{
+    margin-top: 15%;
+    text-align: center;
+}
