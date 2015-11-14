@@ -11,8 +11,8 @@
         </header>
         <main>
             <form id="formaCadastro">
-            <input type="text" id="nome" name="nome" placeholder="Teu nome menó"></input>
-            <input type="text" id="cpf" name ="cpf" placeholder="Teu cpf menó"></input>
+            <input type="text" id="nome" name="nome" placeholder="Teu nome"></input>
+            <input type="text" id="cpf" name ="cpf" placeholder="Teu cpf"></input>
             <button type="button" id="cadastrar">Ook</button>
             </form>
         </main>

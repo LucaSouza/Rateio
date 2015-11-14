@@ -11,7 +11,7 @@
         </header>
         <main>
             <form action="" method="post" id="formaLogin">
-                <input type="text" id="cpf" name ="cpf" placeholder="Teu cpf menó"></input>
+                <input type="text" id="cpf" name ="cpf" placeholder="Teu cpf"></input>
                 <button type="button" id="logar">Logar</button>
                 <a href="cadastro.php">Me Cadastrar</a>
             </form>
